@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnnapooraniSundararaj
-- 👀 I’m facinated about data and eager to learn more about it.
-- 🌱 I’m currently learning python
+- 👀 As someone with a keen eye for details and a passion for data, I thrive on turning data patterns into business solutions. I'm eager for the opportunity to bring my unique blend of technical skills.
 - 📫 How to reach me annapooranisundararaj@gmail.com
 
 <!---
